@@ -1,0 +1,8 @@
+.banner{
+    position: relative;
+    background-image:url("https://up.yimg.com/ib/th?id=OIP.0WSwZk0xz4jmE-WGeaBjzwHaEL&pid=Api&rs=1&c=1&qlt=95&w=174&h=98");
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    color: white; 
+}
